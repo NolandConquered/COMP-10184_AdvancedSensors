@@ -1,8 +1,3 @@
-// ****************************************************************** 
-// Dallas Semiconductor DS18B20 Temperature Sensor Demo Program 
-// COMP-10184 
-// Mohawk College 
-
 // I, Nolan Carter, student number 000817341, certify that this material is my original work.
 // No other person's work has been used without due acknowledgement and neither have I made my work available to anyone else.
  
